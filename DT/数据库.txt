@@ -1,0 +1,22 @@
+
+USE [DT]
+GO
+
+/****** Object:  Table [dbo].[DongTan]    Script Date: 07/27/2015 17:16:50 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[DongTan](
+	[userId] [nvarchar](50) NULL,
+	[message] [nvarchar](500) NULL,
+	[timePoint] [datetime] NULL,
+	[commentCount] [int] NULL,
+	[agreeCount] [int] NULL
+) ON [PRIMARY]
+
+GO
+
+
