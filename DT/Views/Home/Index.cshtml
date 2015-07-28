@@ -20,25 +20,11 @@
         </div>
     </section>
 }
-@using (Ajax.BeginForm("CreateItem", "DongTan",new AjaxOptions { HttpMethod = "POST", UpdateTargetId = "result" }))
-{
+
 <div>
-    <textarea id ="result" style="float: left; height: 60px" name="dongtan"></textarea><input type="submit"
-        style="height: 70px;" value="动弹" /></div>
-    }
+    <textarea id ="result" style="float: left; height: 60px" name="dongtan"></textarea>
+    <input id = "btnClick" type="button" style="height: 70px;" value="动弹" /></div>
 <h3>
     We suggest the following:</h3>
-<ol class="round">
-   @* @foreach (var item in collection)
-    { }*@
-        <li class="one">
-            <h5>
-                Getting Started</h5>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and that gives you full control over markup
-            for enjoyable, agile development. ASP.NET MVC includes many features that enable
-            fast, TDD-friendly development for creating sophisticated applications that use
-            the latest web standards. <a href="http://go.microsoft.com/fwlink/?LinkId=245151">Learn
-                more…</a> </li>
-   
+<ol id ="newitemlist" class="round">
 </ol>

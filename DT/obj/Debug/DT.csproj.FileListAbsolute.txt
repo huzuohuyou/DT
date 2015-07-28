@@ -23,9 +23,13 @@ E:\Github\DT\DT\bin\System.Web.Razor.dll
 E:\Github\DT\DT\bin\System.Web.WebPages.Deployment.dll
 E:\Github\DT\DT\bin\System.Web.WebPages.dll
 E:\Github\DT\DT\bin\System.Web.WebPages.Razor.dll
+E:\Github\DT\DT\bin\ToolFunction.dll
 E:\Github\DT\DT\bin\WebGrease.dll
 E:\Github\DT\DT\bin\WebMatrix.Data.dll
 E:\Github\DT\DT\bin\WebMatrix.WebData.dll
+E:\Github\DT\DT\bin\MongoDB.Driver.dll
+E:\Github\DT\DT\bin\MongoDB.Bson.dll
+E:\Github\DT\DT\bin\ToolFunction.pdb
 E:\Github\DT\DT\bin\EntityFramework.xml
 E:\Github\DT\DT\bin\Newtonsoft.Json.xml
 E:\Github\DT\DT\bin\System.Net.Http.xml
@@ -48,10 +52,6 @@ E:\Github\DT\DT\bin\DotNetOpenAuth.OAuth.Consumer.xml
 E:\Github\DT\DT\bin\DotNetOpenAuth.OAuth.xml
 E:\Github\DT\DT\bin\DotNetOpenAuth.OpenId.xml
 E:\Github\DT\DT\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Github\DT\DT\obj\Debug\DT.csprojResolveAssemblyReference.cache
 E:\Github\DT\DT\obj\Debug\DT.dll
 E:\Github\DT\DT\obj\Debug\DT.pdb
-E:\Github\DT\DT\bin\ToolFunction.dll
-E:\Github\DT\DT\bin\MongoDB.Driver.dll
-E:\Github\DT\DT\bin\MongoDB.Bson.dll
-E:\Github\DT\DT\bin\ToolFunction.pdb
-E:\Github\DT\DT\obj\Debug\DT.csprojResolveAssemblyReference.cache
